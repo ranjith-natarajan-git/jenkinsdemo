@@ -6,7 +6,7 @@ public class JenkinsDemo {
 	public static void main(String[] args) {
 	System.out.print("Hello World");
 	int num=2;
-	System.out.print("Hello World"+num);
+	System.out.print("Hello World"+num+"hwere");
 	//jenkins executed
 	}
 
